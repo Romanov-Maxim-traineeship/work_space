@@ -2,7 +2,7 @@
 
 [**Environment Setup**](http://tutorials.jumpstartlab.com/topics/environment/environment.html) 
 * Git
-* Ruby 2.2
+* Ruby
 * A text editor
 
 
