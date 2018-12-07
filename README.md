@@ -1,6 +1,6 @@
-**work_space**
+# work_space
 
-# Environment Setup
+**Environment Setup**
 * Git
 * Ruby 2.2
 * A text editor
