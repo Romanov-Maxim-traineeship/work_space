@@ -1,4 +1,4 @@
-** work_space **
+**work_space**
 
 # Environment Setup
 * Git
